@@ -439,3 +439,16 @@ Educational resource - use and modify as needed for learning.
 Start with `intro/` and work your way through. Each example builds on the previous one. Read both CODE.md and CONCEPT.md for full understanding.
 
 Happy learning! 
+
+---
+
+## Working with me
+
+If this repo was useful and you have a project that needs ai workflows, context
+engineering, RAG, or local/production LLM work done properly, I'm
+open to freelance or contract engagements.
+
+- Email: [pguso@gmx.de](mailto:pguso@gmx.de)
+- LinkedIn: [https://www.linkedin.com/in/patric-gutersohn-466046167/](https://www.linkedin.com/in/patric-gutersohn-466046167/?utm_source=github&utm_medium=readme)
+
+No pressure either way - glad if the repo was useful on its own.
